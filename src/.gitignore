@@ -1,0 +1,17 @@
+# Maven
+target/
+*.log
+
+# Gradle
+build/
+
+# IDE files
+.classpath
+.project
+.settings/
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
